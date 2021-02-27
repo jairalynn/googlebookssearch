@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 // /* eslint-disable no-undef */
 // /* eslint-disable jsx-a11y/alt-text */
 // /* eslint-disable react/jsx-no-undef */
