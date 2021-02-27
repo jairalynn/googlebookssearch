@@ -16,7 +16,7 @@ if (process.env.NODE_ENV === "production") {
 app.use(routes);
 
 // Connect to the Mongo DB
-const MONGODB_URI = "mongodb+srv://jairalynn:<password>@cluster0.g2lhn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+const MONGODB_URI = "mongodb+srv://jairalynn:poopYOU21@cluster0.g2lhn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 mongoose.connect(MONGODB_URI || "mongodb://localhost/googlesearch", {
   useNewUrlParser: true,
   useUnifiedTopology: true,

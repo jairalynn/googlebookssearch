@@ -7,6 +7,12 @@ function Nav() {
       <a className="navbar-brand" href="/">
         React Google Search
       </a>
+      <a className="nav-link" href="/">
+        Search
+      </a>
+      <a className="nav-link" href="/save">
+        Saved Books
+      </a>
     </nav>
   );
 }
